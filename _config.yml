@@ -85,7 +85,7 @@ author:
   bio              : "Software Engineer in the AI & Perception team at Sony Brussels | M.Sc. in Artificial Intelligence - KU Leuvenr"
   location         : "Brussels, Belgium"
   employer         : "Sony Depthsensing Solutions NA"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7ddouXMAAAAJ&hl=es"
   email            : "israel.tininialvarez@sony.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
